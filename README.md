@@ -15,6 +15,6 @@ I create various applications across different programming languages, specializi
 
 ### Projects
 
-* **[gta5-eyefind-browser](https://github.com/Mpod-software/gta5-eyefind-browser)** — A high-fidelity replica of the GTA V eyeFind browser built with Electron. Includes a standard Windows setup installer and persistent local history.
-* **[DigitalBeacon.info](https://digitalbeacon.info)** — A minimalist, secure engineering log network where developers broadcast hardware journals, code streams, and daily build cycles. Features public dev channels per project, typed development cycles, and threaded peer reviews.
-* **Python Scripts** — A simple script written to automate a repetitive task.
+* **[gta5-eyefind-browser](https://github.com/Mpod-software/gta5-eyefind-browser)** - A high-fidelity replica of the GTA V eyeFind browser built with Electron. Includes a standard Windows setup installer and persistent local history.
+* **[DigitalBeacon.info](https://digitalbeacon.info)** - A minimalist, secure engineering log network where developers broadcast hardware journals, code streams, and daily build cycles. Features public dev channels per project, typed development cycles, and threaded peer reviews.
+* **Python Scripts** - A simple script written to automate a repetitive task.
