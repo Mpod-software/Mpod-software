@@ -1,4 +1,4 @@
-#  Hi, I'm Maks (Mpod)
+#  Hi, I'm Mpod
 
 I create various applications across different programming languages, specializing in standalone desktop tools and automation scripts while managing Windows and Linux environments.
 
